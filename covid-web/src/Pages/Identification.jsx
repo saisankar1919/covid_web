@@ -32,7 +32,7 @@ function Identification(props) {
           Registration
         </h1>
         <div className="flex justify-center">
-          <div className="w-68 border p-14 bg-white rounded-3xl">
+          <div className="w-68 border p-14 bg-white rounded-3xl shadow-2xl">
         <ProcessStepper stepCount={0}/>
         </div>
         </div>
